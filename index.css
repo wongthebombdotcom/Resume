@@ -5,7 +5,7 @@
   h1 {
     font-family:georgia;
     font-size:48px;
-    color:#005e80;
+    color:rgb(119, 25, 25);
   }
   
   .gram{
@@ -23,8 +23,8 @@
   }
   
   body{
-    margin-left:15px;
-    background-color: brown;
+    margin-left:40px;
+    background-color: gainsboro;
     font-family:"Times New Roman";
   }
   .link{
@@ -54,4 +54,7 @@
     width:200px;
     margin-left:360px;
     margin-top:40px;
+  }
+  .summary {
+      margin-left:30px;
   }

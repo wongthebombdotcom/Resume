@@ -1,3 +1,2 @@
 # Resume
-
-whatsup peeps
+This is my resume. What's up peeps
