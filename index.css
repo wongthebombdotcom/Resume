@@ -6,6 +6,7 @@
     font-family:georgia;
     font-size:48px;
     color:rgb(119, 25, 25);
+    text-align: center;
   }
   
   .gram{
@@ -32,7 +33,7 @@
     height:40px;
     float:right;
     margin-top:-20px;
-    margin-right:60px;
+    margin-right:50px;
   }
   
   .me{
