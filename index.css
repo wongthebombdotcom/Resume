@@ -53,17 +53,24 @@ body{
   margin-right:50px;
   margin-left:50px;
   color:silver;
-  font-size:17px
+  font-size:17px;
 }
 .picme{
   float:left;
   width:100%;
   height:auto;
   max-width:300px;
-  padding-right:1.2%;
+  padding-right:5%;
 }
 
 #summary{
-  min-width:825px;
+  max-width:90%;
+  height:auto;
+  line-height:130%;
+  font-size:16.3px;
+  font-family:georgia
 }
 
+.intro{
+  padding:4%;
+}
